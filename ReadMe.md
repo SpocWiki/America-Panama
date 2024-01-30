@@ -108,8 +108,8 @@ id: Panama
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Panama/
-markerFolder: ./Panama/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Panama] 
