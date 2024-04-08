@@ -128,8 +128,10 @@ Capital :: [[Panama_City]]
 
 [Alcohol-l::6.9] 
 [Language-Id::492] 
-[geo-lon::-79.5333] 
-[geo-lat::8.96667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-79.5333] 
+[has_place_latitude::8.96667] 
 
 
 
