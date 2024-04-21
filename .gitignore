@@ -11,7 +11,7 @@ workspace.json
 
 #.obsidian*
 #.obsidian/*
-#.obsidian*/**/*
+.obsidian*/**/*
 
 #.obsidian.desktop
 #.obsidian.desktop/**/*

@@ -103,13 +103,14 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [ISO2::PA] 
 [ISO3::PAN] 
+
 ```leaflet
 id: Panama
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: .// 
-markerFolder: ./
+markerFolder: Provinces~Panama/
+geojsonFolder: Provinces~Panama/
 ```
 
 [name-en::Panama] 
