@@ -121,11 +121,11 @@ Continent :: [[South-America]]
 [VehicleCode::PA] 
 Capital :: [[Panama_City]]  
 
-![[Panama/Coat_of_arms_of_Panama.svg|350]] 
+![[./Coat_of_arms_of_Panama.svg|350]] 
 
 ![[Anthem-Panama.mp3]] 
 
-![[Panama/Flag_of_Panama.svg|350]] 
+![[./Flag_of_Panama.svg|350]] 
 
 [Alcohol-l::6.9] 
 [Language-Id::492] 
