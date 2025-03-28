@@ -1,46 +1,45 @@
----
+﻿---
 has_id_wikidata: Q7350
-located in the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Panamá Province,557506]]"
-  - "[[_Standards/WikiData/WD~Colón Province,820514]]"
-  - "[[_Standards/WikiData/WD~Panamá Oeste Province,16250688]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-has effect: "[[_Standards/WikiData/WD~Panamax,852387]]"
-instance of: "[[_Standards/WikiData/WD~ship canal,949819]]"
-has part(s): "[[_Standards/WikiData/WD~Panama Canal locks,2388548]]"
-part of: "[[_Standards/WikiData/WD~Seven Wonders of the Modern World,12800832]]"
-commissioned by: "[[_Standards/WikiData/WD~Compagnie universelle du canal interocéanique de Panama,17625883]]"
-heritage designation: "[[_Standards/WikiData/WD~Historic Civil Engineering Landmark,56637937]]"
+located_in_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Panamá Province,557506]]"
+- "[[_Standards/WikiData/WD~Colón Province,820514]]"
+- "[[_Standards/WikiData/WD~Panamá Oeste Province,16250688]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Yuzhakov Big Encyclopedia,4091878]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+has_effect: '[[_Standards/WikiData/WD~Panamax,852387]]'
+instance_of: "[[_Standards/WikiData/WD~ship canal,949819]]"
+has_part_s_: "[[_Standards/WikiData/WD~Panama Canal locks,2388548]]"
+part_of: "[[_Standards/WikiData/WD~Seven Wonders of the Modern World,12800832]]"
+commissioned_by: "[[_Standards/WikiData/WD~Compagnie universelle du canal interocéanique de Panama,17625883]]"
+heritage_designation: "[[_Standards/WikiData/WD~Historic Civil Engineering Landmark,56637937]]"
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Canal%20de%20Panama%2C%20Panama.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Panama%20Canal.webm
-country: "[[_Standards/WikiData/WD~Panama,804]]"
-connects with:
-  - "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-  - "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-destination point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-start point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
-elevation above sea level: 26
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Canal%20de%20Panama%2C%20Panama.webm"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Panama%20Canal.webm"
+country: '[[_Standards/WikiData/WD~Panama,804]]'
+connects_with:
+- "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+- "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+destination_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+start_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+elevation_above_sea_level: 26
 length: 82
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-canal%20de%20panama.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Panama%20Canal%20Gatun%20Locks.jpg
-detail map: http://commons.wikimedia.org/wiki/Special:FilePath/Panama%20Canal%20Map%20FR.png
-U.S. National Archives Identifier: "10046555"
-Libris-URI: 86lnmkbs3zls8r9
-Krugosvet article: Earth_sciences/geografiya/PANAMSKI_KANAL.html
-Commons gallery: Panama Canal
-Commons category: Panama Canal
-date of official opening: 1914-08-15T00:00:00Z
-coordinate location: Point(-79.75 9.12)
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Fr-canal%20de%20panama.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Panama%20Canal%20Gatun%20Locks.jpg"
+detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Panama%20Canal%20Map%20FR.png"
+U_S_National_Archives_Identifier: 10046555
+Libris_URI: 86lnmkbs3zls8r9
+Krugosvet_article: Earth_sciences/geografiya/PANAMSKI_KANAL.html
+Commons_gallery: "Panama Canal"
+Commons_category: "Panama Canal"
+date_of_official_opening: "1914-08-15T00:00:00Z"
+coordinate_location: "Point(-79.75 9.12)"
 ---
-
 
 ## #has_/text_of_/abstract 
 
