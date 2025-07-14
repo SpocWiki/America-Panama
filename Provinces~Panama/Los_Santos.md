@@ -41,15 +41,17 @@ markerFolder: ./Los_Santos/
 
 ## Confidential Links & Embeds: 
 
-### [Los_Santos.public](/_public/\Earth\Continent\America~Central\Panama\Provinces~PanamaLos_Santos.public.md) 
+### [Los_Santos](/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Los_Santos.md) 
 
-### [Los_Santos.internal](/_internal/\Earth\Continent\America~Central\Panama\Provinces~PanamaLos_Santos.internal.md) 
+### [Los_Santos.public](/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Los_Santos.public.md) 
 
-### [Los_Santos.protect](/_protect/\Earth\Continent\America~Central\Panama\Provinces~PanamaLos_Santos.protect.md) 
+### [Los_Santos.internal](/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Los_Santos.internal.md) 
 
-### [Los_Santos.private](/_private/\Earth\Continent\America~Central\Panama\Provinces~PanamaLos_Santos.private.md) 
+### [Los_Santos.protect](/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Los_Santos.protect.md) 
 
-### [Los_Santos.personal](/_personal/\Earth\Continent\America~Central\Panama\Provinces~PanamaLos_Santos.personal.md) 
+### [Los_Santos.private](/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Los_Santos.private.md) 
 
-### [Los_Santos.secret](/_secret/\Earth\Continent\America~Central\Panama\Provinces~PanamaLos_Santos.secret.md)
+### [Los_Santos.personal](/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Los_Santos.personal.md) 
+
+### [Los_Santos.secret](/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Los_Santos.secret.md)
 

@@ -56,19 +56,19 @@ coordinate_location: "Point(-79.75 9.12)"
 > [Wikipedia](https://en.wikipedia.org/wiki/Panama%20Canal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Panama_Canal.public](/_public/\Earth\Continent\America~Central\PanamaPanama_Canal.public.md) 
+### [Panama_Canal](/_Standards/Earth/Continent/America~Central/Panama/Panama_Canal.md) 
 
-### [Panama_Canal.internal](/_internal/\Earth\Continent\America~Central\PanamaPanama_Canal.internal.md) 
+### [Panama_Canal.public](/_public/Earth/Continent/America~Central/Panama/Panama_Canal.public.md) 
 
-### [Panama_Canal.protect](/_protect/\Earth\Continent\America~Central\PanamaPanama_Canal.protect.md) 
+### [Panama_Canal.internal](/_internal/Earth/Continent/America~Central/Panama/Panama_Canal.internal.md) 
 
-### [Panama_Canal.private](/_private/\Earth\Continent\America~Central\PanamaPanama_Canal.private.md) 
+### [Panama_Canal.protect](/_protect/Earth/Continent/America~Central/Panama/Panama_Canal.protect.md) 
 
-### [Panama_Canal.personal](/_personal/\Earth\Continent\America~Central\PanamaPanama_Canal.personal.md) 
+### [Panama_Canal.private](/_private/Earth/Continent/America~Central/Panama/Panama_Canal.private.md) 
 
-### [Panama_Canal.secret](/_secret/\Earth\Continent\America~Central\PanamaPanama_Canal.secret.md)
+### [Panama_Canal.personal](/_personal/Earth/Continent/America~Central/Panama/Panama_Canal.personal.md) 
+
+### [Panama_Canal.secret](/_secret/Earth/Continent/America~Central/Panama/Panama_Canal.secret.md)
 

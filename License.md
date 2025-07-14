@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~Central\PanamaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~Central/Panama/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~Central\PanamaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~Central/Panama/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~Central\PanamaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~Central/Panama/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~Central\PanamaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~Central/Panama/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~Central\PanamaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~Central/Panama/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~Central\PanamaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~Central/Panama/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~Central/Panama/License.secret.md)
 

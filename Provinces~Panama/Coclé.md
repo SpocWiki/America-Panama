@@ -41,15 +41,17 @@ markerFolder: ./Coclé/
 
 ## Confidential Links & Embeds: 
 
-### [Coclé.public](/_public/\Earth\Continent\America~Central\Panama\Provinces~PanamaCoclé.public.md) 
+### [Coclé](/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Coclé.md) 
 
-### [Coclé.internal](/_internal/\Earth\Continent\America~Central\Panama\Provinces~PanamaCoclé.internal.md) 
+### [Coclé.public](/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Coclé.public.md) 
 
-### [Coclé.protect](/_protect/\Earth\Continent\America~Central\Panama\Provinces~PanamaCoclé.protect.md) 
+### [Coclé.internal](/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Coclé.internal.md) 
 
-### [Coclé.private](/_private/\Earth\Continent\America~Central\Panama\Provinces~PanamaCoclé.private.md) 
+### [Coclé.protect](/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Coclé.protect.md) 
 
-### [Coclé.personal](/_personal/\Earth\Continent\America~Central\Panama\Provinces~PanamaCoclé.personal.md) 
+### [Coclé.private](/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Coclé.private.md) 
 
-### [Coclé.secret](/_secret/\Earth\Continent\America~Central\Panama\Provinces~PanamaCoclé.secret.md)
+### [Coclé.personal](/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Coclé.personal.md) 
+
+### [Coclé.secret](/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Coclé.secret.md)
 

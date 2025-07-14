@@ -135,15 +135,17 @@ Capital :: [[Panama_City]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~Central\PanamaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~Central/Panama/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\PanamaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~Central/Panama/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\PanamaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~Central/Panama/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~Central\PanamaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~Central/Panama/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\PanamaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~Central/Panama/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\PanamaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~Central/Panama/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~Central/Panama/ReadMe.secret.md)
 

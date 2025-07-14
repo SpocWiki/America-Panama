@@ -57,15 +57,17 @@ markerFolder: ./Darién/
 
 ## Confidential Links & Embeds: 
 
-### [Darién.public](/_public/\Earth\Continent\America~Central\Panama\Provinces~PanamaDarién.public.md) 
+### [Darién](/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Darién.md) 
 
-### [Darién.internal](/_internal/\Earth\Continent\America~Central\Panama\Provinces~PanamaDarién.internal.md) 
+### [Darién.public](/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Darién.public.md) 
 
-### [Darién.protect](/_protect/\Earth\Continent\America~Central\Panama\Provinces~PanamaDarién.protect.md) 
+### [Darién.internal](/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Darién.internal.md) 
 
-### [Darién.private](/_private/\Earth\Continent\America~Central\Panama\Provinces~PanamaDarién.private.md) 
+### [Darién.protect](/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Darién.protect.md) 
 
-### [Darién.personal](/_personal/\Earth\Continent\America~Central\Panama\Provinces~PanamaDarién.personal.md) 
+### [Darién.private](/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Darién.private.md) 
 
-### [Darién.secret](/_secret/\Earth\Continent\America~Central\Panama\Provinces~PanamaDarién.secret.md)
+### [Darién.personal](/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Darién.personal.md) 
+
+### [Darién.secret](/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Darién.secret.md)
 
