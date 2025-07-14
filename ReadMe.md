@@ -133,11 +133,17 @@ Capital :: [[Panama_City]]
 [has_place_latitude::8.96667] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Panama|Panama]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama.internal|Panama.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama.protect|Panama.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama.private|Panama.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama.personal|Panama.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama.secret|Panama.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~Central\PanamaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\PanamaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\PanamaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~Central\PanamaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\PanamaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\PanamaReadMe.secret.md)
+

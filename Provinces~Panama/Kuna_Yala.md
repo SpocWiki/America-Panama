@@ -40,11 +40,16 @@ markerFolder: ./Kuna_Yala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Panama/Counties/Kuna_Yala|Kuna_Yala]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Panama/Counties/Kuna_Yala.public|Kuna_Yala.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Panama/Counties/Kuna_Yala.internal|Kuna_Yala.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Panama/Counties/Kuna_Yala.protect|Kuna_Yala.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Panama/Counties/Kuna_Yala.private|Kuna_Yala.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Panama/Counties/Kuna_Yala.personal|Kuna_Yala.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Panama/Counties/Kuna_Yala.secret|Kuna_Yala.secret]] 
+
+### [Kuna_Yala.public](/_public/\Earth\Continent\America~Central\Panama\Provinces~PanamaKuna_Yala.public.md) 
+
+### [Kuna_Yala.internal](/_internal/\Earth\Continent\America~Central\Panama\Provinces~PanamaKuna_Yala.internal.md) 
+
+### [Kuna_Yala.protect](/_protect/\Earth\Continent\America~Central\Panama\Provinces~PanamaKuna_Yala.protect.md) 
+
+### [Kuna_Yala.private](/_private/\Earth\Continent\America~Central\Panama\Provinces~PanamaKuna_Yala.private.md) 
+
+### [Kuna_Yala.personal](/_personal/\Earth\Continent\America~Central\Panama\Provinces~PanamaKuna_Yala.personal.md) 
+
+### [Kuna_Yala.secret](/_secret/\Earth\Continent\America~Central\Panama\Provinces~PanamaKuna_Yala.secret.md)
 

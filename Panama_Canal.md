@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7350
 located_in_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Panamá_Province,557506]]"
@@ -54,4 +54,21 @@ coordinate_location: "Point(-79.75 9.12)"
 > Annual traffic has risen from about 1,000 ships in 1914, when the canal opened, to 14,702 vessels in 2008, for a total of 333.7 million Panama Canal/Universal Measurement System (PC/UMS) tons. By 2012, more than 815,000 vessels had passed through the canal; in that year, the United States, China, Chile, Japan, and South Korea were the top five users of the canal. In 2017, it took ships an average of 11.38 hours to pass between the canal's two outer locks. The American Society of Civil Engineers has ranked the Panama Canal one of the Seven Wonders of the Modern World.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Panama%20Canal) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Panama_Canal.public](/_public/\Earth\Continent\America~Central\PanamaPanama_Canal.public.md) 
+
+### [Panama_Canal.internal](/_internal/\Earth\Continent\America~Central\PanamaPanama_Canal.internal.md) 
+
+### [Panama_Canal.protect](/_protect/\Earth\Continent\America~Central\PanamaPanama_Canal.protect.md) 
+
+### [Panama_Canal.private](/_private/\Earth\Continent\America~Central\PanamaPanama_Canal.private.md) 
+
+### [Panama_Canal.personal](/_personal/\Earth\Continent\America~Central\PanamaPanama_Canal.personal.md) 
+
+### [Panama_Canal.secret](/_secret/\Earth\Continent\America~Central\PanamaPanama_Canal.secret.md)
 

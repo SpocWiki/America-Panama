@@ -40,11 +40,16 @@ markerFolder: ./Veraguas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Panama/Counties/Veraguas|Veraguas]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Panama/Counties/Veraguas.public|Veraguas.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Panama/Counties/Veraguas.internal|Veraguas.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Panama/Counties/Veraguas.protect|Veraguas.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Panama/Counties/Veraguas.private|Veraguas.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Panama/Counties/Veraguas.personal|Veraguas.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Panama/Counties/Veraguas.secret|Veraguas.secret]] 
+
+### [Veraguas.public](/_public/\Earth\Continent\America~Central\Panama\Provinces~PanamaVeraguas.public.md) 
+
+### [Veraguas.internal](/_internal/\Earth\Continent\America~Central\Panama\Provinces~PanamaVeraguas.internal.md) 
+
+### [Veraguas.protect](/_protect/\Earth\Continent\America~Central\Panama\Provinces~PanamaVeraguas.protect.md) 
+
+### [Veraguas.private](/_private/\Earth\Continent\America~Central\Panama\Provinces~PanamaVeraguas.private.md) 
+
+### [Veraguas.personal](/_personal/\Earth\Continent\America~Central\Panama\Provinces~PanamaVeraguas.personal.md) 
+
+### [Veraguas.secret](/_secret/\Earth\Continent\America~Central\Panama\Provinces~PanamaVeraguas.secret.md)
 
