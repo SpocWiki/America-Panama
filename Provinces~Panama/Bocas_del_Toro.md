@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Bocas_del_Toro
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bocas_del_Toro/
 markerFolder: ./Bocas_del_Toro/

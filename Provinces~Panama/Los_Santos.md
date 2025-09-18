@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Los_Santos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Los_Santos/
 markerFolder: ./Los_Santos/

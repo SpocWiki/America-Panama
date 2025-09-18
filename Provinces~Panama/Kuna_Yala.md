@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kuna_Yala
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kuna_Yala/
 markerFolder: ./Kuna_Yala/

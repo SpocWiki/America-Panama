@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ngöbe_Buglé
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ngöbe_Buglé/
 markerFolder: ./Ngöbe_Buglé/
