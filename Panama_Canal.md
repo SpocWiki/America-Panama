@@ -41,6 +41,10 @@ date_of_official_opening: "1914-08-15T00:00:00Z"
 coordinate_location: "Point(-79.75 9.12)"
 ---
 
+# [[Panama_Canal]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Panama_Canal,7350|WD~Panama_Canal,7350]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Panama Canal** (Spanish: Canal de Panamá) is an artificial 82-kilometer (51-mile) waterway in Panama that connects the Caribbean Sea with the Pacific Ocean. It cuts across the narrowest point of the Isthmus of Panama, and is a conduit for maritime trade between the Atlantic and Pacific Oceans. Locks at each end lift ships up to Gatun Lake, an artificial fresh water lake 26 meters (85 ft) above sea level, created by damming the Chagres River and Lake Alajuela to reduce the amount of excavation work required for the canal. Locks then lower the ships at the other end. An average of 200 ML (52,000,000 US gal) of fresh water is used in a single passing of a ship. The canal is threatened by low water levels during droughts.
