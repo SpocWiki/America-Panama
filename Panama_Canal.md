@@ -1,44 +1,44 @@
 ---
 has_id_wikidata: Q7350
 located_in_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Panamá_Province,557506]]"
-- "[[_Standards/WikiData/WD~Colón_Province,820514]]"
-- "[[_Standards/WikiData/WD~Panamá_Oeste_Province,16250688]]"
+  - "[[_Standards/WikiData/WD~Panamá_Province,557506]]"
+  - "[[_Standards/WikiData/WD~Colón_Province,820514]]"
+  - "[[_Standards/WikiData/WD~Panamá_Oeste_Province,16250688]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-has_effect: '[[_Standards/WikiData/WD~Panamax,852387]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+has_effect: "[[_Standards/WikiData/WD~Panamax,852387]]"
 instance_of: "[[_Standards/WikiData/WD~ship_canal,949819]]"
 has_part_s_: "[[_Standards/WikiData/WD~Panama_Canal_locks,2388548]]"
 part_of: "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Modern_World,12800832]]"
 commissioned_by: "[[_Standards/WikiData/WD~Compagnie_universelle_du_canal_interocéanique_de_Panama,17625883]]"
 heritage_designation: "[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937]]"
 video:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Canal%20de%20Panama%2C%20Panama.webm"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Panama%20Canal.webm"
-country: '[[_Standards/WikiData/WD~Panama,804]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Canal%20de%20Panama%2C%20Panama.webm
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Panama%20Canal.webm
+country: "[[_Standards/WikiData/WD~Panama,804]]"
 connects_with:
-- "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-- "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 destination_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 start_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 elevation_above_sea_level: 26
 length: 82
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Fr-canal%20de%20panama.ogg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Panama%20Canal%20Gatun%20Locks.jpg"
-detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Panama%20Canal%20Map%20FR.png"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-canal%20de%20panama.ogg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Panama%20Canal%20Gatun%20Locks.jpg
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Panama%20Canal%20Map%20FR.png
 U_S_National_Archives_Identifier: 10046555
 Libris_URI: 86lnmkbs3zls8r9
 Krugosvet_article: Earth_sciences/geografiya/PANAMSKI_KANAL.html
-Commons_gallery: "Panama Canal"
-Commons_category: "Panama Canal"
-date_of_official_opening: "1914-08-15T00:00:00Z"
-coordinate_location: "Point(-79.75 9.12)"
+Commons_gallery: Panama Canal
+Commons_category: Panama Canal
+date_of_official_opening: 1914-08-15T00:00:00Z
+coordinate_location: Point(-79.75 9.12)
 ---
 
 # [[Panama_Canal]] 
