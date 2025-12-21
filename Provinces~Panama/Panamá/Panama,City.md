@@ -1,6 +1,7 @@
 ---
 aliases:
   - Panama_City
+  - Panama,City
 has_id_wikidata: Q3306
 location:
   - 8.966666

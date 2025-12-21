@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kuna_Yala
+  - Kuna Yala
 location:
   - 9.06
   - -77.93
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kuna_Yala
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Kuna_Yala

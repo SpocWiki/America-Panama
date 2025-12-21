@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Panama
+  - Panamá
+  - بنما
+  - 巴拿马
+  - Панама
+  - the Republic of Panama
+  - la República de Panamá
+  - ReadMe
 location:
   - 8.96667
   - -79.5333
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Panama
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Panama
-  - Panamá
-  - بنما
-  - 巴拿马
-  - Панама
-  - the Republic of Panama
-  - la República de Panamá
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-PA
   - en
