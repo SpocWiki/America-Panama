@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -79.53333
 dv_has_place_latitude: 8.966666
-dv_name: Panama City
+dv_has_name_: Panama City
 dv_Country: "[[../../Panama]]"
 dv_Unknown: 32
 dv_is_:

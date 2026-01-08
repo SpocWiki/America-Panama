@@ -45,15 +45,13 @@ dv_ISO4217-currency_country_name: PANAMA
 dv_Telephone: 507
 dv_Global: true
 dv_Global_Name: World
-dv_name: Panama
-dv_name-en:
-  - Panama
-  - Panama
-dv_name-es: Panamá
-dv_name-fr: Panama
-dv_name-cn: 巴拿马
-dv_name-ar: بنما
-dv_name-ru: Панама
+dv_has_name_: Panama
+dv_has_name_en: Panama
+dv_has_name_es: Panamá
+dv_has_name_fr: Panama
+dv_has_name_cn: 巴拿马
+dv_has_name_ar: بنما
+dv_has_name_ru: Панама
 dv_CLDR_display_name: Panama
 dv_UNTERM_English: Panama
 dv_UNTERM_English_Formal: the Republic of Panama
@@ -91,7 +89,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 591
 dv_ISO2: PA
 dv_ISO3: PAN
-dv_name-de: Panama
+dv_has_name_de: Panama
 dv_Area-Total: 75517
 dv_Area-Land: 74430
 dv_Continent: "[[South-America]]"
@@ -118,12 +116,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Panama ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Panama ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -183,8 +181,8 @@ markerFolder: Provinces~Panama/
 geojsonFolder: Provinces~Panama/
 ```
 
-[name-en::Panama] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Panama] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`
