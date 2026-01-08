@@ -40,17 +40,17 @@ markerFolder: ./Chiriquí/
 
 ## Confidential Links & Embeds: 
 
-### [Chiriquí](/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí|Chiriquí]] 
 
-### [Chiriquí.public](/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.public|Chiriquí.public]] 
 
-### [Chiriquí.internal](/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.internal|Chiriquí.internal]] 
 
-### [Chiriquí.protect](/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.protect|Chiriquí.protect]] 
 
-### [Chiriquí.private](/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.private|Chiriquí.private]] 
 
-### [Chiriquí.personal](/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.personal|Chiriquí.personal]] 
 
-### [Chiriquí.secret](/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Chiriquí.secret|Chiriquí.secret]] 
 

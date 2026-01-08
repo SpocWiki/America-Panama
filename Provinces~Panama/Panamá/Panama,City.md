@@ -16,21 +16,30 @@ tags:
 SpocWebEntityId: 35968
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -79.53333
+dv_has_place_latitude: 8.966666
+dv_name: Panama City
+dv_Country: "[[../../Panama]]"
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Panama_City,3306|WD~Panama_City,3306]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Panama_City,3306|WD~Panama_City,3306]]"
 ---
 
 # [[Panama,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-79.53333] 
-[has_place_latitude::8.966666] 
-[name::Panama City] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Panama]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
-#is_/same_as :: [[../../../../../../WikiData/WD~Panama_City,3306|WD~Panama_City,3306]] 
+Unknown = `=this.dv_Unknown` 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -47,17 +56,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Panama,City](/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City|Panama,City]] 
 
-### [Panama,City.public](/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.public|Panama,City.public]] 
 
-### [Panama,City.internal](/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.internal|Panama,City.internal]] 
 
-### [Panama,City.protect](/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.protect|Panama,City.protect]] 
 
-### [Panama,City.private](/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.private|Panama,City.private]] 
 
-### [Panama,City.personal](/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.personal|Panama,City.personal]] 
 
-### [Panama,City.secret](/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Panamá/Panama,City.secret|Panama,City.secret]] 
 

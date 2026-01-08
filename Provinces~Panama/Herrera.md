@@ -40,17 +40,17 @@ markerFolder: ./Herrera/
 
 ## Confidential Links & Embeds: 
 
-### [Herrera](/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera|Herrera]] 
 
-### [Herrera.public](/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.public|Herrera.public]] 
 
-### [Herrera.internal](/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.internal|Herrera.internal]] 
 
-### [Herrera.protect](/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.protect|Herrera.protect]] 
 
-### [Herrera.private](/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.private|Herrera.private]] 
 
-### [Herrera.personal](/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.personal|Herrera.personal]] 
 
-### [Herrera.secret](/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Herrera.secret|Herrera.secret]] 
 

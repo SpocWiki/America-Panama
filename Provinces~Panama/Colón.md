@@ -40,17 +40,17 @@ markerFolder: ./Colón/
 
 ## Confidential Links & Embeds: 
 
-### [Colón](/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón|Colón]] 
 
-### [Colón.public](/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.public|Colón.public]] 
 
-### [Colón.internal](/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.internal|Colón.internal]] 
 
-### [Colón.protect](/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.protect|Colón.protect]] 
 
-### [Colón.private](/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.private|Colón.private]] 
 
-### [Colón.personal](/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.personal|Colón.personal]] 
 
-### [Colón.secret](/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Colón.secret|Colón.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./_Rivers/
 
 ## Confidential Links & Embeds: 
 
-### [_Rivers](/_Standards/Earth/Continent/America~Central/Panama/_Rivers.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Panama/_Rivers|_Rivers]] 
 
-### [_Rivers.public](/_public/Earth/Continent/America~Central/Panama/_Rivers.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Panama/_Rivers.public|_Rivers.public]] 
 
-### [_Rivers.internal](/_internal/Earth/Continent/America~Central/Panama/_Rivers.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Panama/_Rivers.internal|_Rivers.internal]] 
 
-### [_Rivers.protect](/_protect/Earth/Continent/America~Central/Panama/_Rivers.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Panama/_Rivers.protect|_Rivers.protect]] 
 
-### [_Rivers.private](/_private/Earth/Continent/America~Central/Panama/_Rivers.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Panama/_Rivers.private|_Rivers.private]] 
 
-### [_Rivers.personal](/_personal/Earth/Continent/America~Central/Panama/_Rivers.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Panama/_Rivers.personal|_Rivers.personal]] 
 
-### [_Rivers.secret](/_secret/Earth/Continent/America~Central/Panama/_Rivers.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Panama/_Rivers.secret|_Rivers.secret]] 
 

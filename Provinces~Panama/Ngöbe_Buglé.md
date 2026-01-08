@@ -41,17 +41,17 @@ markerFolder: ./Ngöbe_Buglé/
 
 ## Confidential Links & Embeds: 
 
-### [Ngöbe_Buglé](/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé|Ngöbe_Buglé]] 
 
-### [Ngöbe_Buglé.public](/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.public|Ngöbe_Buglé.public]] 
 
-### [Ngöbe_Buglé.internal](/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.internal|Ngöbe_Buglé.internal]] 
 
-### [Ngöbe_Buglé.protect](/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.protect|Ngöbe_Buglé.protect]] 
 
-### [Ngöbe_Buglé.private](/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.private|Ngöbe_Buglé.private]] 
 
-### [Ngöbe_Buglé.personal](/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.personal|Ngöbe_Buglé.personal]] 
 
-### [Ngöbe_Buglé.secret](/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Ngöbe_Buglé.secret|Ngöbe_Buglé.secret]] 
 

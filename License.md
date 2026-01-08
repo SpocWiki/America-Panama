@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/America~Central/Panama/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Panama/License|License]] 
 
-### [License.public](/_public/Earth/Continent/America~Central/Panama/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Panama/License.public|License.public]] 
 
-### [License.internal](/_internal/Earth/Continent/America~Central/Panama/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Panama/License.internal|License.internal]] 
 
-### [License.protect](/_protect/Earth/Continent/America~Central/Panama/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Panama/License.protect|License.protect]] 
 
-### [License.private](/_private/Earth/Continent/America~Central/Panama/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Panama/License.private|License.private]] 
 
-### [License.personal](/_personal/Earth/Continent/America~Central/Panama/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Panama/License.personal|License.personal]] 
 
-### [License.secret](/_secret/Earth/Continent/America~Central/Panama/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Panama/License.secret|License.secret]] 
 

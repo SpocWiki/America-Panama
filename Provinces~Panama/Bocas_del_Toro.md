@@ -41,17 +41,17 @@ markerFolder: ./Bocas_del_Toro/
 
 ## Confidential Links & Embeds: 
 
-### [Bocas_del_Toro](/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro|Bocas_del_Toro]] 
 
-### [Bocas_del_Toro.public](/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.public|Bocas_del_Toro.public]] 
 
-### [Bocas_del_Toro.internal](/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.internal|Bocas_del_Toro.internal]] 
 
-### [Bocas_del_Toro.protect](/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.protect|Bocas_del_Toro.protect]] 
 
-### [Bocas_del_Toro.private](/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.private|Bocas_del_Toro.private]] 
 
-### [Bocas_del_Toro.personal](/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.personal|Bocas_del_Toro.personal]] 
 
-### [Bocas_del_Toro.secret](/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Bocas_del_Toro.secret|Bocas_del_Toro.secret]] 
 

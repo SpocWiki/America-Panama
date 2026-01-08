@@ -40,17 +40,17 @@ markerFolder: ./Emberá/
 
 ## Confidential Links & Embeds: 
 
-### [Emberá](/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá|Emberá]] 
 
-### [Emberá.public](/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.public|Emberá.public]] 
 
-### [Emberá.internal](/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.internal|Emberá.internal]] 
 
-### [Emberá.protect](/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.protect|Emberá.protect]] 
 
-### [Emberá.private](/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.private|Emberá.private]] 
 
-### [Emberá.personal](/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.personal|Emberá.personal]] 
 
-### [Emberá.secret](/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Panama/Provinces~Panama/Emberá.secret|Emberá.secret]] 
 
