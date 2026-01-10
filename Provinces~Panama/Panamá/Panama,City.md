@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -79.53333
 dv_has_place_latitude: 8.966666
-dv_has_name_: Panama City
+dv_has_name: Panama City
 dv_Country: "[[../../Panama]]"
 dv_Unknown: 32
 dv_is_:
@@ -33,7 +33,7 @@ dv_is_same_as: "[[../../../../../../WikiData/WD~Panama_City,3306|WD~Panama_City,
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 
