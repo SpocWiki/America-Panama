@@ -150,7 +150,7 @@ emergency_phone_number:
 demographics_of_topic: '[[/_Standards/WikiData/WD~demographics_of_Panama,548401|WD~demographics_of_Panama,548401]]'
 highest_point: '[[/_Standards/WikiData/WD~Volcán_Barú,594726|WD~Volcán_Barú,594726]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
@@ -463,7 +463,7 @@ dv_ISO2: PA
 dv_ISO3: PAN
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Panama,804|WD~Panama,804]]'
+  - '[[../../../../WikiData/WD~Panama,804|WD~Panama,804]]'
   - '[[/_Standards/Earth/Continent/America~Central/Panama|Panama]]'
   - '[[/_public/Earth/Continent/America~Central/Panama.public|Panama.public]]'
   - '[[/_internal/Earth/Continent/America~Central/Panama.internal|Panama.internal]]'
@@ -763,7 +763,7 @@ dv_has_place_longitude: -79.5333
 dv_has_place_latitude: 8.96667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../WikiData/WD~Panama,804|WD~Panama,804]]'
+- '[[../../../../WikiData/WD~Panama,804|WD~Panama,804]]'
 - '[[/_Standards/Earth/Continent/America~Central/Panama|Panama]]'
 - '[[/_public/Earth/Continent/America~Central/Panama.public|Panama.public]]'
 - '[[/_internal/Earth/Continent/America~Central/Panama.internal|Panama.internal]]'
@@ -845,12 +845,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~Panama,804|WD~Panama,804]] 
+#is_/same_as :: [[../../../../WikiData/WD~Panama,804|WD~Panama,804]] 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Panama/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -869,7 +869,7 @@ markerFile: [[Panama]]
 
 ```leaflet
 id: Panama_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -895,11 +895,11 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Panama_City]]  
 
-![[Panama/Coat_of_arms_of_Panama.svg|350]]
+![[Coat_of_arms_of_Panama.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Panama.mp3|Anthem-Panama.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Panama.mp3|Anthem-Panama.mp3]]
 
-![[Panama/Flag_of_Panama.svg|350]]
+![[Flag_of_Panama.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
